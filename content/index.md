@@ -1,19 +1,11 @@
 ---
-title: Web Altery
+title: Web Alteryska
 tags:
+  - feature
+  - RGB
 ---
 # vítejte :)
 ==TESTING
-Obsah:
-
-[[List sezení]]
-
-[[Lore]]
-
-[[O magii]]
-
-[[Měnový systém]]
-
-[[Institut theurgie a veřejné ochrany proti všemu zlořečenému]]
+Obsah:==
 
 
