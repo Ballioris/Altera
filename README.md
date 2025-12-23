@@ -1,4 +1,8 @@
-# Quartz v4
+# Zde pracuji na mém online záznamu dračáku
+
+
+
+# Vše funguje díky: Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
